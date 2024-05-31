@@ -9,7 +9,7 @@ $ sha1sum sample.doc
 which is, 06727ffda60359236a8029e0b3e8a0fd11c23313
 
 
-Q 2) According to VirusTotal, what is the full filetype of the provided sample? (Format: X X X X)
+Q 2) According to VirusTotal, what is the full filetype of the provided sample? (Format: X X X X) \n
 => Uploading file on the [Virustotal](https://www.virustotal.com/gui/home/upload) it fetches with a lot of info about the file.
 (image upload)
 which is, Office Open XML Document 
